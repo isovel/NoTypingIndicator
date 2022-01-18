@@ -1,0 +1,17 @@
+{
+  "name": "No Typing Indicator",
+  "description": "Stop other users from seeing that you're typing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Toasty",
+    "id": "255515821541949440"
+  },
+  "id": "NoTypingIndicator",
+  "support": "NDzjMB2WhR",
+  "donations": [
+    {
+      "name": "Ko-fi",
+      "link": "https://ko-fi.com/slice"
+    }
+  ]
+}
