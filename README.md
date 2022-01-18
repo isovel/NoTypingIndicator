@@ -1,0 +1,2 @@
+# NoTypingIndicator
+Astra Plugin
